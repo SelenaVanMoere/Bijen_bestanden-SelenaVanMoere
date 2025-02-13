@@ -8,7 +8,7 @@
       "levensduur": 5,
       "leeft_solitair": false,
       "eerste_ontdekking": "1758-12-01",
-      "foto_url": "milestone0/assets/images/honingbij_BB_001.jpg",
+      "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/honingbij_BB_001.jpg?raw=true",
       "oorsprong_continent": "Europa",
       "voorkeursbloemen": ["klaver", "linde", "zonnebloem", "bloeiende wilg", "paardenbloem"],
       "agressiviteit_schaal": "Laag",
