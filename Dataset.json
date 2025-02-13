@@ -1,0 +1,213 @@
+[
+    {
+      "id": "BB-001",
+      "bijenras": "Honingbij",
+      "latijnse_benaming": "Apis mellifera",
+      "extra_informatie": "De honingbij is een sociale bijensoort die bekend staat om zijn uitstekende honingproductie en sterke samenwerking binnen het volk. Ze spelen een cruciale rol in de bestuiving van veel gewassen.",
+      "uiterlijk": "Honingbijen zijn klein tot middelgroot, met een geelbruine kleur en zwart gestreepte lichamen. Ze hebben een kleine, glanzende buik en de typische dunne vleugels.",
+      "levensduur": 5,
+      "leeft_solitair": false,
+      "eerste_ontdekking": "1758-12-01",
+      "foto_url": "milestone0/assets/images/honingbij_BB_001.jpg",
+      "oorsprong_continent": "Europa",
+      "voorkeursbloemen": ["klaver", "linde", "zonnebloem", "bloeiende wilg", "paardenbloem"],
+      "agressiviteit_schaal": "Laag",
+      "bij_passende_habitat": {
+        "id": "HH-0516",
+        "naam": "Loofbos",
+        "temperatuurbereik": [10, 25],
+        "vegetatietype": "bloemenweides",
+        "hoogte_boven_zeeniveau": 200
+      }
+    },
+    {
+      "id": "BB-002",
+      "bijenras": "Stingless bee",
+      "latijnse_benaming": "Meliponini",
+      "extra_informatie": "Stingless bees, of steekloze bijen, komen voor in tropische en subtropische regio's. Ze produceren kleine hoeveelheden honing en zijn zeer sociale insecten. Ondanks hun naam kunnen ze wel bijten, maar hebben geen angel.",
+      "uiterlijk": "Steekloze bijen zijn kleiner dan honingbijen en hebben meestal een donkere kleur. Hun lichamen zijn meestal zwart met enkele lichte markeringen. Ze hebben geen zichtbare angel.",
+      "levensduur": 3,
+      "leeft_solitair": false,
+      "eerste_ontdekking": "1793-06-21",
+      "foto_url": "milestone0/assets/images/stingless_bee_BB_002.jpeg",
+      "oorsprong_continent": "Zuid-Amerika",
+      "voorkeursbloemen": ["orchidee", "passiebloem", "wilde tijm", "bloeiende acacia", "bloeiende linde"],
+      "agressiviteit_schaal": "Laag",
+      "bij_passende_habitat": {
+        "id": "HH-2226",
+        "naam": "Tropisch regenwoud",
+        "temperatuurbereik": [20, 35],
+        "vegetatietype": "tropisch regenwoud",
+        "hoogte_boven_zeeniveau": 500
+      }
+    },
+    {
+      "id": "BB-003",
+      "bijenras": "Hommel",
+      "latijnse_benaming": "Bombus spp.",
+      "extra_informatie": "Hommels zijn grote, harige bijen die bekend staan om hun vermogen om bloemen te bestuiven in koude klimaten, waar andere bijen het moeilijk hebben. Ze spelen een belangrijke rol in de bestuiving van gewassen, vooral in gematigde klimaten.",
+      "uiterlijk": "Hommels zijn harig en groter dan de meeste bijen. Ze hebben dikke zwartgele of zwartoranje strepen op hun lichaam, die hen helpen zich warm te houden in koudere omgevingen.",
+      "levensduur": 1,
+      "leeft_solitair": false,
+      "eerste_ontdekking": "1772-08-10",
+      "foto_url": "milestone0/assets/images/homme_BB_003.jpg",
+      "oorsprong_continent": "Europa, Noord-Amerika, Azië",
+      "voorkeursbloemen": ["klaver", "kruiden", "munt", "zonnebloem", "klaproos"],
+      "agressiviteit_schaal": "Gemiddeld",
+      "bij_passende_habitat": {
+        "id": "HH-2536",
+        "naam": "Graslanden en Tuinen",
+        "temperatuurbereik": [5, 25],
+        "vegetatietype": "bloeiende planten",
+        "hoogte_boven_zeeniveau": 100
+      }
+    },
+    {
+      "id": "BB-004",
+      "bijenras": "Gouden bij",
+      "latijnse_benaming": "Apis cerana",
+      "extra_informatie": "De gouden bij, ook bekend als de Aziatische honingbij, is een nauw verwante soort van de honingbij en wordt vaak gebruikt voor honingproductie in Azië. Ze kunnen agressiever zijn dan de Europese honingbij en zijn beter bestand tegen ziekten zoals de varroamijt.",
+      "uiterlijk": "De gouden bij lijkt veel op de honingbij, maar heeft een iets kleiner, slanker lichaam met een lichtere, gelige kleur.",
+      "levensduur": 4,
+      "leeft_solitair": false,
+      "eerste_ontdekking": "1857-11-30",
+      "foto_url": "milestone0/assets/images/Apis cerana_BB_004.png",
+      "oorsprong_continent": "Azië",
+      "voorkeursbloemen": ["zonnebloem", "linde", "klaver", "wilde tijm", "bloeiende wilg"],
+      "agressiviteit_schaal": "Laag",
+      "bij_passende_habitat": {
+        "id": "HH-0546",
+        "naam": "Tropisch en subtropisch bos",
+        "temperatuurbereik": [18, 30],
+        "vegetatietype": "bloeiende planten",
+        "hoogte_boven_zeeniveau": 500
+      }
+    },
+    {
+      "id": "BB-005",
+      "bijenras": "Masonbij",
+      "latijnse_benaming": "Osmia spp.",
+      "extra_informatie": "Masonbijen zijn solitaire bijen die hun nesten bouwen in scheuren en holtes, en staan bekend om hun efficiëntie in het bestuiven van fruitbomen. Ze spelen een belangrijke rol in het bestuiven van appel- en perenbloesems.",
+      "uiterlijk": "Masonbijen zijn klein, met een glanzend zwart of blauwachtig lichaam en vaak met zilveren haren aan hun buik.",
+      "levensduur": 1,
+      "leeft_solitair": true,
+      "eerste_ontdekking": "1758-05-30",
+      "foto_url": "milestone0/assets/images/Osmia spp._BB_005.png",
+      "oorsprong_continent": "Europa, Noord-Amerika",
+      "voorkeursbloemen": ["fruitbloesem", "bloeiende appelboom", "peerbloesem", "kruiden", "klaver"],
+      "agressiviteit_schaal": "Laag",
+      "bij_passende_habitat": {
+        "id": "HH-2856",
+        "naam": "Tuin en Boomgaard",
+        "temperatuurbereik": [10, 25],
+        "vegetatietype": "bloeiende planten en fruitbomen",
+        "hoogte_boven_zeeniveau": 200
+      }
+    },
+    {
+      "id": "BB-0006",
+      "bijenras": "Grote bladsnijder",
+      "latijnse_benaming": "Megachile willughbiella",
+      "extra_informatie": "Bladsnijdersbijen staan bekend om het snijden van bladeren en bloemen om hun nesten te bouwen. Ze zijn belangrijk voor de bestuiving van veel planten, zoals rozen en lavendel.",
+      "uiterlijk": "Bladsnijdersbijen hebben een zwart lichaam met witte, geelachtige of groene haren, afhankelijk van de soort. Ze hebben grote kaken waarmee ze bladeren kunnen snijden.",
+      "levensduur": 2,
+      "leeft_solitair": true,
+      "eerste_ontdekking": "1812-04-15",
+      "foto_url": "milestone0/assets/images/Megachile willughbiella_BB_006.jpg",
+      "oorsprong_continent": "Wereldwijd",
+      "voorkeursbloemen": ["rozen", "bromelia", "bloeiende wilg", "klaver", "bloeiende bessenstruiken"],
+      "agressiviteit_schaal": "Laag",
+      "bij_passende_habitat": {
+        "id": "HH-7369",
+        "naam": "Bosranden en Tuinen",
+        "temperatuurbereik": [15, 30],
+        "vegetatietype": "bloeiende struiken en bomen",
+        "hoogte_boven_zeeniveau": 300
+      }
+    },
+    {
+      "id": "BB-007",
+      "bijenras": "Houtbij",
+      "latijnse_benaming": "Xylocopa spp.",
+      "extra_informatie": "Houtbijen zijn grote, sterke bijen die hun nesten boren in houten structuren. Ze spelen een belangrijke rol in de bestuiving van bomen, met name in tropische gebieden.",
+      "uiterlijk": "Houtbijen zijn groot en hebben vaak een zwart lichaam met blauwachtige tinten. Ze hebben sterke kaken en een robuust uiterlijk.",
+      "levensduur": 3,
+      "leeft_solitair": true,
+      "eerste_ontdekking": "1773-09-09",
+      "foto_url": "milestone0/assets/images/houtbij_BB_007.jpg",
+      "oorsprong_continent": "Wereldwijd",
+      "voorkeursbloemen": ["zonnebloem", "bloeiende bomen", "lavendel", "wilde bloemen"],
+      "agressiviteit_schaal": "Gemiddeld",
+      "bij_passende_habitat": {
+        "id": "HH-1778",
+        "naam": "Bosrijke gebieden en tuinen",
+        "temperatuurbereik": [10, 30],
+        "vegetatietype": "bloeiende struiken en bomen",
+        "hoogte_boven_zeeniveau": 500
+      }
+    },
+    {
+        "id": "bb00008",
+        "bijenras": "Roodharige wespbij",
+        "latijnse_benaming": "Nomada lathburiana",
+        "extra_informatie": "De roodharige wespbij is een solitaire bij die vaak nestelt in de grond of in rottend hout. Ze leggen hun eieren in de nesten van andere bijen, waarna de larven zich voeden met de larven van de gastbij. Ze spelen een rol in het reguleren van de populaties van andere bijen.",
+        "uiterlijk": "De roodharige wespbij heeft een opvallend zwart en oranje-rood gestreept lichaam. Ze zijn kleiner dan veel andere bijen en hebben een slank, sterk geprofileerd lichaam.",
+        "levensduur": 1,
+        "leeft_solitair": true,
+        "eerste_ontdekking": "1758-03-15",
+        "foto_url": "milestone0/assets/images/Roodharige wespbij__BB_008.JPG",
+        "oorsprong_continent": "Europa, Noord-Amerika",
+        "voorkeursbloemen": ["klaver", "bloeiende struiken", "zonnebloemen", "heide"],
+        "agressiviteit_schaal": "Gemiddeld",
+        "bij_passende_habitat": {
+          "id": "HH-6589",
+          "naam": "Heide en Grassen",
+          "temperatuurbereik": [10, 25],
+          "vegetatietype": "bloeiende grassen en bloemen",
+          "hoogte_boven_zeeniveau": 150
+        }
+    },
+    {
+      "id": "BB-009",
+      "bijenras": "Blauwe boomgaardbij",
+      "latijnse_benaming": "Osmia lignaria",
+      "extra_informatie": "De blauwe boomgaardbij is een solitaire bij die bekend staat om zijn efficiënte bestuiving van fruitbloesems, zoals appel- en perenbloesems.",
+      "uiterlijk": "Blauwe boomgaardbijen zijn klein met een glanzend blauwe tot groene kleur en zwartachtige markeringen. Ze hebben een slank lichaam.",
+      "levensduur": 1,
+      "leeft_solitair": true,
+      "eerste_ontdekking": "1812-04-15",
+      "foto_url": "milestone0/assets/images/Blauwe boomgaardbij__BB_009.jpeg",
+      "oorsprong_continent": "Noord-Amerika",
+      "voorkeursbloemen": ["fruitbloesem", "klaver", "bloeiende appelboom", "peerbloesem"],
+      "agressiviteit_schaal": "Laag",
+      "bij_passende_habitat": {
+        "id": "HH-4596",
+        "naam": "Tuin en Boomgaard",
+        "temperatuurbereik": [10, 25],
+        "vegetatietype": "bloeiende planten en fruitbomen",
+        "hoogte_boven_zeeniveau": 200
+      }
+    },
+    {
+      "id": "BB-010",
+      "bijenras": "Alkalibij",
+      "latijnse_benaming": "Nomia melanderi",
+      "extra_informatie": "Alkalibijen zijn uitstekende bestuivers van wilde bloemen en kruiden in droge, alkalische omgevingen.",
+      "uiterlijk": "Alkalibijen hebben een zwartachtig lichaam en glanzende, felgekleurde haartjes die hen helpen bij het verzamelen van pollen.",
+      "levensduur": 1,
+      "leeft_solitair": true,
+      "eerste_ontdekking": "1885-06-05",
+      "foto_url": "milestone0/assets/images/alkalibij_BB_010.jpeg",
+      "oorsprong_continent": "Noord-Amerika",
+      "voorkeursbloemen": ["bloeiende kruiden", "woestijnplanten", "bloeiende cactussen"],
+      "agressiviteit_schaal": "Laag",
+      "bij_passende_habitat": {
+        "id": "HH-1410",
+        "naam": "Woestijngebieden",
+        "temperatuurbereik": [10, 35],
+        "vegetatietype": "bloeiende woestijnplanten",
+        "hoogte_boven_zeeniveau": 300
+      }
+    }
+  ]
+  
