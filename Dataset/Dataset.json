@@ -9,7 +9,7 @@
       "leeft_solitair": false,
       "eerste_ontdekking": "1758-12-01",
       "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/honingbij_BB_001.jpg?raw=true",
-      "oorsprong_continent": "Europa",
+      "oorsprong_continent": ["Europa"],
       "voorkeursbloemen": ["klaver", "linde", "zonnebloem", "bloeiende wilg", "paardenbloem"],
       "agressiviteit_schaal": "Laag",
       "bij_passende_habitat": {
@@ -30,7 +30,7 @@
       "leeft_solitair": false,
       "eerste_ontdekking": "1793-06-21",
       "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/stingless_bee_BB_002.jpeg?raw=true",
-      "oorsprong_continent": "Zuid-Amerika",
+      "oorsprong_continent": ["Zuid-Amerika"],
       "voorkeursbloemen": ["orchidee", "passiebloem", "wilde tijm", "bloeiende acacia", "bloeiende linde"],
       "agressiviteit_schaal": "Laag",
       "bij_passende_habitat": {
@@ -51,7 +51,7 @@
       "leeft_solitair": false,
       "eerste_ontdekking": "1772-08-10",
       "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/homme_BB_003.jpg?raw=true",
-      "oorsprong_continent": "Europa, Noord-Amerika, Azië",
+      "oorsprong_continent": ["Europa, Noord-Amerika, Azië"],
       "voorkeursbloemen": ["klaver", "kruiden", "munt", "zonnebloem", "klaproos"],
       "agressiviteit_schaal": "Gemiddeld",
       "bij_passende_habitat": {
@@ -72,7 +72,7 @@
       "leeft_solitair": false,
       "eerste_ontdekking": "1857-11-30",
       "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/Apis%20cerana_BB_004.png?raw=true",
-      "oorsprong_continent": "Azië",
+      "oorsprong_continent": ["Azië"],
       "voorkeursbloemen": ["zonnebloem", "linde", "klaver", "wilde tijm", "bloeiende wilg"],
       "agressiviteit_schaal": "Laag",
       "bij_passende_habitat": {
@@ -93,7 +93,7 @@
       "leeft_solitair": true,
       "eerste_ontdekking": "1758-05-30",
       "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/Osmia%20spp._BB_005.png?raw=true",
-      "oorsprong_continent": "Europa, Noord-Amerika",
+      "oorsprong_continent": ["Europa, Noord-Amerika"],
       "voorkeursbloemen": ["fruitbloesem", "bloeiende appelboom", "peerbloesem", "kruiden", "klaver"],
       "agressiviteit_schaal": "Laag",
       "bij_passende_habitat": {
@@ -114,7 +114,7 @@
       "leeft_solitair": true,
       "eerste_ontdekking": "1812-04-15",
       "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/Megachile%20willughbiella_BB_006.jpg?raw=true",
-      "oorsprong_continent": "Wereldwijd",
+      "oorsprong_continent": ["Wereldwijd"],
       "voorkeursbloemen": ["rozen", "bromelia", "bloeiende wilg", "klaver", "bloeiende bessenstruiken"],
       "agressiviteit_schaal": "Laag",
       "bij_passende_habitat": {
@@ -135,7 +135,7 @@
       "leeft_solitair": true,
       "eerste_ontdekking": "1773-09-09",
       "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/houtbij_BB_007.jpg?raw=true",
-      "oorsprong_continent": "Wereldwijd",
+      "oorsprong_continent": ["Wereldwijd"],
       "voorkeursbloemen": ["zonnebloem", "bloeiende bomen", "lavendel", "wilde bloemen"],
       "agressiviteit_schaal": "Gemiddeld",
       "bij_passende_habitat": {
@@ -156,7 +156,7 @@
         "leeft_solitair": true,
         "eerste_ontdekking": "1758-03-15",
         "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/Roodharige%20wespbij__BB_008.JPG?raw=true",
-        "oorsprong_continent": "Europa, Noord-Amerika",
+        "oorsprong_continent": ["Europa, Noord-Amerika"],
         "voorkeursbloemen": ["klaver", "bloeiende struiken", "zonnebloemen", "heide"],
         "agressiviteit_schaal": "Gemiddeld",
         "bij_passende_habitat": {
@@ -177,7 +177,7 @@
       "leeft_solitair": true,
       "eerste_ontdekking": "1812-04-15",
       "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/Blauwe%20boomgaardbij__BB_009.jpeg?raw=true",
-      "oorsprong_continent": "Noord-Amerika",
+      "oorsprong_continent": ["Noord-Amerika"],
       "voorkeursbloemen": ["fruitbloesem", "klaver", "bloeiende appelboom", "peerbloesem"],
       "agressiviteit_schaal": "Laag",
       "bij_passende_habitat": {
@@ -198,7 +198,7 @@
       "leeft_solitair": true,
       "eerste_ontdekking": "1885-06-05",
       "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/alkalibij_BB_010.jpeg?raw=true",
-      "oorsprong_continent": "Noord-Amerika",
+      "oorsprong_continent": ["Noord-Amerika"],
       "voorkeursbloemen": ["bloeiende kruiden", "woestijnplanten", "bloeiende cactussen"],
       "agressiviteit_schaal": "Laag",
       "bij_passende_habitat": {
