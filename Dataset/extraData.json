@@ -4,70 +4,64 @@
       "naam": "Loofbos",
       "temperatuurbereik": [10, 25],
       "vegetatietype": "bloemenweides",
-      "hoogte_boven_zeeniveau": 200
+      "hoogte_boven_zeeniveau": 200,
+      "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/loofbos.jpg"
     },
     {
       "id": "HH-2226",
       "naam": "Tropisch regenwoud",
       "temperatuurbereik": [20, 35],
       "vegetatietype": "tropisch regenwoud",
-      "hoogte_boven_zeeniveau": 500
+      "hoogte_boven_zeeniveau": 500,
+      "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/tropisch_regenwoud.jpg"
     },
     {
       "id": "HH-2536",
       "naam": "Graslanden en Tuinen",
       "temperatuurbereik": [5, 25],
       "vegetatietype": "bloeiende planten",
-      "hoogte_boven_zeeniveau": 100
+      "hoogte_boven_zeeniveau": 100,
+      "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/graslanden_tuinen.jpg"
     },
     {
       "id": "HH-0546",
       "naam": "Tropisch en subtropisch bos",
       "temperatuurbereik": [18, 30],
       "vegetatietype": "bloeiende planten",
-      "hoogte_boven_zeeniveau": 500
+      "hoogte_boven_zeeniveau": 500,
+      "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/tropische_subtropisch.jpg"
     },
     {
       "id": "HH-2856",
       "naam": "Tuin en Boomgaard",
       "temperatuurbereik": [10, 25],
       "vegetatietype": "bloeiende planten en fruitbomen",
-      "hoogte_boven_zeeniveau": 200
+      "hoogte_boven_zeeniveau": 200,
+      "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/boomgaard.jpg"
     },
     {
       "id": "HH-7369",
       "naam": "Bosranden en Tuinen",
       "temperatuurbereik": [15, 30],
       "vegetatietype": "bloeiende struiken en bomen",
-      "hoogte_boven_zeeniveau": 300
-    },
-    {
-      "id": "HH-1778",
-      "naam": "Bosrijke gebieden en tuinen",
-      "temperatuurbereik": [10, 30],
-      "vegetatietype": "bloeiende struiken en bomen",
-      "hoogte_boven_zeeniveau": 500
+      "hoogte_boven_zeeniveau": 300,
+      "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/bosranden.jpg"
     },
     {
       "id": "HH-6589",
       "naam": "Heide en Grassen",
       "temperatuurbereik": [10, 25],
       "vegetatietype": "bloeiende grassen en bloemen",
-      "hoogte_boven_zeeniveau": 150
-    },
-    {
-      "id": "HH-4596",
-      "naam": "Tuin en Boomgaard",
-      "temperatuurbereik": [10, 25],
-      "vegetatietype": "bloeiende planten en fruitbomen",
-      "hoogte_boven_zeeniveau": 200
+      "hoogte_boven_zeeniveau": 150,
+      "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/heide.jpeg"
     },
     {
       "id": "HH-1410",
       "naam": "Woestijngebieden",
       "temperatuurbereik": [10, 35],
       "vegetatietype": "bloeiende woestijnplanten",
-      "hoogte_boven_zeeniveau": 300
+      "hoogte_boven_zeeniveau": 300,
+      "foto_url": "https://github.com/SelenaVanMoere/Bijen_bestanden-SelenaVanMoere/blob/main/Dataset/images/woestijn.jpg"
     }
   ]
   
